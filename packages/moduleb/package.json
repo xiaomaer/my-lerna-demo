@@ -25,5 +25,8 @@
   },
   "bugs": {
     "url": "https://github.com/xiaomaer/my-lerna-demo/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
   }
 }

@@ -1,8 +1,9 @@
-"use strict";
+import lodash from "lodash";
+("use strict");
 
 module.exports = moduleb;
 
-function moduleb() {
+function moduleb(a, b) {
   // TODO
-  return "b";
+  return lodash.multiply(a, b);
 }
