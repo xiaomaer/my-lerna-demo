@@ -1,8 +1,10 @@
-"use strict";
+import lodash from "lodash";
+
+("use strict");
 
 module.exports = modulea;
 
-function modulea() {
+function modulea(a, b) {
   // TODO
-  return "a";
+  return lodash.add(a, b);
 }
