@@ -1,0 +1,22 @@
+{
+  "name": "modulea",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "马美英 <mameiying@meituan.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/modulea.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
